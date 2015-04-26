@@ -1,0 +1,8 @@
+India
+USA
+Australia
+China
+Syria
+Japan
+Russia
+END
