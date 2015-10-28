@@ -1,4 +1,6 @@
-# MUNModerator
+# THIS VERSION OF THE APPLICATION IS NO LONGER IN DEVELOPMENT. CHECK UPDATED QT BASED VERSION
+
+### MUNModerator
 Github repo, for development of C++ application for use by moderators at MUN conferences
 
 #### Prerequisites for compiling source code –
